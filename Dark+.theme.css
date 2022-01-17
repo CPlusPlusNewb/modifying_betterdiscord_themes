@@ -234,13 +234,13 @@
 }
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
 .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
-  background: var(--darkplus-sec);
-  color: var(--darkplus-bg);
+  background: var(--darkplus-bg);
+  color: var(--darkplus-sec);
 }
 .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP),
 .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
-  background: var(--darkplus-sec);
-  color: var(--darkplus-bg);
+  background: var(--darkplus-bg);
+  color: var(--darkplus-sec);
 }
 .progressBar-1T6LYX,
 .mediaBarWrapper-33h1oY .mediaBarGrabber-FvJKJg,
