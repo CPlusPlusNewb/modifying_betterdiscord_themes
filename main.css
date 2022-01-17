@@ -364,12 +364,6 @@ s {
   fill: var(--background);
 }
 
-/* --== Style twitch widget on user popout ==-- */
-
-.activity-11LB_k {
-  background: transparent;
-}
-
 /* --== Style the online/afk/dnd icons ==-- */
 
 /* --== THIS PART WAS YOINKED FROM _DAVID_! THANKS DAVID! ==-- */
